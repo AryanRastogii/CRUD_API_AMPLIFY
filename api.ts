@@ -1,4 +1,4 @@
-const API_BASE_URL = 'UPDATE WITH YOUR API GATEWAY INVOKE URL';
+const API_BASE_URL = 'https://hfkf8jpe71.execute-api.us-east-1.amazonaws.com/prod';
 
 export interface Item {
   id: string;
